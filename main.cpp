@@ -3,6 +3,7 @@
 #include <future>
 #include <thread>
 #include <cstdlib>
+#include <vector> 
 #include <conio.h>
 #include <cstring>
 #include <map>
